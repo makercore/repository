@@ -1,0 +1,15 @@
+Name: docker
+Version: 0.0.1
+Description: build, push and interact with docker images
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: 3c1442c4d15d53aad7cac368a6a67523
+  SHA1: 0dd3d49e2d3e799c4fc5e17031675c01d496592d
+  SHA256: 7640b0aa56fcf65f0cecfdce7450470c20361df54d4a636c9cb5a577742064c0
+  SHA512: aefc1e3ab449d5bb9f8eef369b8908cd8e3b17ba8ece8846234afd7a894f11e5da6c5070d2646d0233fca4ba41588c0e6b72bc5cbf0228c75965f298f21c91c0
+Release:
+  MD5: 2eabf3feff09acd84638835658b134c3
+  SHA1: 20ba6bd4be81a20860ebb87b71af47aa9c9c5116
+  SHA256: bbefc6b5cc8994d5eddc43cd8e5582df9fce54aac787f8bccc9466745f1f5c71
+  SHA512: fec1b9c6126a0d4d2feaf6c1fee8d0172c7600e5195149aab66047078aa84d565d09b5102ac720089f0e80522aece396e6a722948a6fd61dfb079a5ffeaf0cd6

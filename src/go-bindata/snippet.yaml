@@ -1,0 +1,15 @@
+Name: go-bindata
+Version: 0.0.1
+Description: manage generated golang asset files using go-bindata/go-bindata package
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: 9a0a06b608d475449926159deb9b1644
+  SHA1: c3fde14c7fbc2a73d27ec09e7fb7c4a11c7e1916
+  SHA256: 5a64a3efc0b23968601fe875ecce2e5d6b9af29df7ab5dd5cd836dd3ed999525
+  SHA512: 372cb2a8cdb368699728eff4a17552fb7dc7eabe3904fc6fc7f9f7496d697cd219f14370f28fff777e5400eb0116d5a971074ea291bd36b37da89a543fe14cab
+Release:
+  MD5: 25cdc1a0f0a69bb671eac184db017a04
+  SHA1: 09bde56cd9e89460aac6977ca94b7af18685db61
+  SHA256: c7416cb749a873bc7d9bf65680872f9c40a87d282ca65b8c5cbb2f67fbc2c52b
+  SHA512: 3a530105992eb711c0c8b6c9d7e9f0ed73437ef857ee781eac75d05e6cef5229133673b11639da5eb9fe31c41d554d65b1230e88ee74edca3ad64831f1c896c3

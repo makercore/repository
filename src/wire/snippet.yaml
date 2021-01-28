@@ -1,0 +1,15 @@
+Name: wire
+Version: 0.0.1
+Description: manage generated golang code using google/wire dependency injection package
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: 4b97f7341411c569f7df779e68a4c2d7
+  SHA1: 5db5a6e4a0397a5611802cc8d54e009f5901ad36
+  SHA256: 3c6f5fece026ffa35b522066857af591520f3a551ed7ee9b76a8fb2d9884c603
+  SHA512: a87dbfd4f6c123928058b89c36ed1d0d9b2256fb4fb377abe74e75515d3eae093f462b61fbc5804ec3f7dc75c8ddba02eb35d49ae66ab52b20b9aa0ab0e46ba6
+Release:
+  MD5: ea3fc48648f6644e6b2fd0e812c473c8
+  SHA1: f74ac529cdbd2ef21a5b65264edf6edb46aa8a43
+  SHA256: 1e002d57e2aa31d981626f243832320731c9fd48ac4260703c96a20149a4a89b
+  SHA512: dc2697300cbb07d9bb7d4f6a556006652a5f6cb2671a1a076ff0775079428e991cf4a7037dd4042bc2c4018de095858c9e2ba9ec663a9716bd0512c61e12a0be

@@ -1,0 +1,15 @@
+Name: plantuml
+Version: 0.0.1
+Description: generate SVG and PNG from PlantUML diagram source files
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: 8034add07a53b580fcbd8136f20fee81
+  SHA1: 37b729cc8e9bf1f69fb068ce84303c7ea32051c8
+  SHA256: 32ae545be8a78e60dbdf9141f9068fa6f1e55bf10ce726736c3118952130e2ef
+  SHA512: 135814b73faad086acc3195da2480b928eb2ba8963bf4c8e63263b93dbd566c9dd25d35e5af82079b6011323ff057d89d831dc04454ba9eae5cce925534ae490
+Release:
+  MD5: bedb45c096f7c2101623c34e278c8b1f
+  SHA1: e9648a7bc9d7558772bbb80e8af5a471f95ed80c
+  SHA256: cb037544b2e507fcb5a153c9b24ff99ffde6e48f0c84a1bf3478add020dbcef5
+  SHA512: 3fac720000fde2d6f9db0cb07a48d37ae552018930dd2bde4f7d3d7920edc2e5402ed2039174445a55a8e26ec757dc126795a8e52e4ea04959357dfcd6133ed5

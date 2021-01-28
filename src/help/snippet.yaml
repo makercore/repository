@@ -1,0 +1,5 @@
+Name: help
+Version: 0.0.1
+Description: parses help messages from Makefile targets
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/

@@ -1,0 +1,15 @@
+Name: goplantuml
+Version: 0.0.1
+Description: generate PlantUML diagrams from golang source code using goplantuml
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: 0053bc413d42cd107a64830bc2b9234e
+  SHA1: f26ebf584cca63c649c98032179bd14047a4fc41
+  SHA256: e66c10c8108370d82aaf209649fc52e77a9c2a068277a9331f94c1fb3877bcd4
+  SHA512: be9304bff26da5b3317c70fac66a39935c023fa675c20276d10b4c72226862f8ca76549b03133150f07dad43f5d2b481064ee22688adb78b62130e82b1e8d09c
+Release:
+  MD5: cfdeb61ef1981232bdb13486f8886254
+  SHA1: 20501140d1a087183af3167c2083762396d79215
+  SHA256: 1220757ebbbe7308d2dc88821d9877dce387b7450eba4c3dda9fa74971aed66c
+  SHA512: 8f1f26f71ac3f4275e5a3ca19c2042b103f10bb1a7c74b8e5ebc9abbd705286d00f36527b00b76a7f4b959fbb462daf10e5406a74fe2977f4c4d8dd06c3d0744

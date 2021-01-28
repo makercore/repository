@@ -1,0 +1,15 @@
+Name: golang
+Version: 0.0.1
+Description: vendor dependencies, build, run, test, lint and cover golang source code
+Maintainer: William Artero <william@artero.dev>
+Homepage: https://artero.dev/
+Source:
+  MD5: c643877f7fac8c6222953435232795dc
+  SHA1: 61d5122750b4f4a5a4075457bbf4b14b865fccb5
+  SHA256: 70a465cbeeaf63306901898a9c385bca23307a7c272ea32cc079b4714830480e
+  SHA512: 46fcd591cc557fdf1396787d0f112a8ddd1a4a4582066d63f0460edb9eb3df33c48f0aaa9055c83e64d80a7c53e487857ae9483480fe7e18174c88327331eb7f
+Release:
+  MD5: 7fb8dd80e214ed34606bd189b4d7730d
+  SHA1: aa71b63556092a7e2e777f9056f529c8db3c921f
+  SHA256: d1e30d57f9cb942364abba58cffc43d438cf32683fbfc7123c0e1e457cb7a7df
+  SHA512: 0d7984fd9f7029c02e8cc2e7a9dca154d08fc639d609d00b12e82c4962dde0c49b91cf110ac885adfae066c65ac3ff72c510287a7e2d79439364e908ffe77574
